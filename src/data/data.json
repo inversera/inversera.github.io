@@ -1,0 +1,594 @@
+{
+  "site": {
+    "name": "InversEra",
+    "navigation": [
+      {
+        "label": "Services",
+        "href": "#services"
+      },
+      {
+        "label": "Industries",
+        "href": "#industries"
+      },
+      {
+        "label": "Why Us",
+        "href": "#why-inversera"
+      },
+      {
+        "label": "Our Story",
+        "href": "#our-story"
+      },
+      {
+        "label": "Careers",
+        "href": "#careers"
+      },
+      {
+        "label": "Resources",
+        "href": "#resources"
+      }
+    ],
+    "headerCta": {
+      "label": "Let's Talk",
+      "href": "#contact",
+      "icon": "arrow-up-right"
+    }
+  },
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "eyebrow": "Technology That Keeps You Ahead",
+      "heading": {
+        "text": "You Run the Business. We Keep IT Running.",
+        "parts": [
+          {
+            "text": "You Run the Business.",
+            "highlight": false
+          },
+          {
+            "text": "We Keep IT Running.",
+            "highlight": true
+          }
+        ]
+      },
+      "description": "Flexible onshore and offshore IT services to help you build, run and grow with confidence. Get the right people, expertise and support — whenever you need it.",
+      "actions": [
+        {
+          "label": "Let's Discuss Your Needs",
+          "href": "#contact",
+          "icon": "arrow-right",
+          "variant": "primary"
+        },
+        {
+          "label": "Explore Our Services",
+          "href": "#services",
+          "icon": "none",
+          "variant": "secondary"
+        }
+      ],
+      "highlights": [
+        {
+          "title": "Reliable IT Operations",
+          "icon": "settings"
+        },
+        {
+          "title": "Skilled Talent On Demand",
+          "icon": "users"
+        },
+        {
+          "title": "Scalable Cloud Solutions",
+          "icon": "cloud"
+        },
+        {
+          "title": "Secure and Compliant",
+          "icon": "shield-check"
+        }
+      ],
+      "visual": {
+        "type": "image",
+        "description": "IT professional working at a desk with a systems monitoring dashboard",
+        "dashboardTitle": "IT Operations Status",
+        "dashboardItems": [
+          {
+            "text": "Systems Online 99.9%",
+            "icon": "check-circle"
+          },
+          {
+            "text": "Backups Completed",
+            "icon": "check-circle"
+          },
+          {
+            "text": "Security Protected",
+            "icon": "check-circle"
+          },
+          {
+            "text": "Support Active",
+            "icon": "check-circle"
+          }
+        ]
+      }
+    },
+    {
+      "id": "proactive-it",
+      "name": "Proactive IT",
+      "eyebrow": "From IT Problems to Business Progress",
+      "heading": {
+        "text": "We Don’t Just Fix Computers, We Prevent the Downtime Before It Happens.",
+        "parts": [
+          {
+            "text": "We Don’t Just Fix Computers,",
+            "highlight": false
+          },
+          {
+            "text": "We Prevent the Downtime Before It Happens.",
+            "highlight": true
+          }
+        ]
+      },
+      "description": "Move from reactive, costly IT firefighting to proactive, planned and secure operations — so your team can focus on what really matters: growing your business.",
+      "actions": [
+        {
+          "label": "See the Difference",
+          "href": "#our-approach",
+          "icon": "arrow-right",
+          "variant": "primary"
+        }
+      ],
+      "comparison": {
+        "reactive": {
+          "title": "Reactive IT",
+          "issues": [
+            {
+              "text": "System Down",
+              "icon": "monitor-off"
+            },
+            {
+              "text": "Slow Performance",
+              "icon": "gauge"
+            },
+            {
+              "text": "Security Risk",
+              "icon": "shield-alert"
+            },
+            {
+              "text": "Unexpected Costs",
+              "icon": "wallet"
+            }
+          ],
+          "summary": "Unplanned issues, downtime and reactive support."
+        },
+        "proactive": {
+          "title": "Proactive IT with InversEra",
+          "benefits": [
+            {
+              "text": "Systems Monitored",
+              "icon": "monitor-check"
+            },
+            {
+              "text": "Issues Prevented",
+              "icon": "shield-check"
+            },
+            {
+              "text": "Business Continuity",
+              "icon": "refresh-cw"
+            },
+            {
+              "text": "Peace of Mind",
+              "icon": "check-circle"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "challenges",
+      "name": "Common IT Challenges",
+      "eyebrow": "Common IT Challenges We Solve",
+      "heading": {
+        "text": "Sound Familiar?",
+        "parts": [
+          {
+            "text": "Sound Familiar?",
+            "highlight": false
+          }
+        ]
+      },
+      "description": "These are real challenges businesses face — and we help you solve them, every day.",
+      "cards": [
+        {
+          "id": "reliable-talent",
+          "title": "Hard to Find Reliable Talent",
+          "description": "Skilled IT resources are expensive and difficult to hire, especially for short-term or specialized needs.",
+          "icon": "users",
+          "visualDescription": "Professional looking at a laptop with question marks"
+        },
+        {
+          "id": "it-costs",
+          "title": "Rising IT Costs",
+          "description": "Maintaining an in-house team increases fixed costs and stretches budgets.",
+          "icon": "trending-up",
+          "visualDescription": "Stack of coins with an upward trend arrow"
+        },
+        {
+          "id": "project-delays",
+          "title": "Project Delays",
+          "description": "Lack of bandwidth and the right expertise slows down your roadmap.",
+          "icon": "clock",
+          "visualDescription": "Clock beside a professional working at a laptop"
+        },
+        {
+          "id": "technology-change",
+          "title": "Keeping Up with Technology",
+          "description": "Rapidly changing technology is hard to evaluate, implement and manage.",
+          "icon": "layers",
+          "supportingLabels": [
+            {
+              "text": "Security",
+              "icon": "shield-check"
+            },
+            {
+              "text": "Data",
+              "icon": "database"
+            },
+            {
+              "text": "Compliance",
+              "icon": "clipboard-check"
+            },
+            {
+              "text": "AI",
+              "icon": "brain-circuit"
+            }
+          ],
+          "visualDescription": "Technology dashboard with a professional and labels for security, data, compliance and AI"
+        }
+      ]
+    },
+    {
+      "id": "services",
+      "name": "Our IT Services",
+      "eyebrow": "Our IT Services",
+      "heading": {
+        "text": "Your On-Demand IT Department",
+        "parts": [
+          {
+            "text": "Your On-Demand IT Department",
+            "highlight": false
+          }
+        ]
+      },
+      "description": "Flexible, scalable and cost-effective IT services with the right talent, skills and delivery model to achieve your business goals.",
+      "cards": [
+        {
+          "id": "staff-augmentation",
+          "title": "IT Staffing & Team Augmentation",
+          "description": "Access skilled professionals on-demand and scale your team quickly.",
+          "icon": "users",
+          "href": "#staff-augmentation",
+          "linkLabel": "Explore IT Staffing",
+          "linkIcon": "arrow-right"
+        },
+        {
+          "id": "cloud-azure",
+          "title": "Cloud & Azure Solutions",
+          "description": "Design, migrate and manage secure, scalable cloud environments.",
+          "icon": "cloud",
+          "href": "#cloud-azure",
+          "linkLabel": "Explore Cloud Solutions",
+          "linkIcon": "arrow-right"
+        },
+        {
+          "id": "application-development",
+          "title": "Application Development",
+          "description": "Custom software solutions tailored to your business needs.",
+          "icon": "code",
+          "href": "#application-development",
+          "linkLabel": "Explore Application Development",
+          "linkIcon": "arrow-right"
+        },
+        {
+          "id": "managed-it",
+          "title": "Managed IT Services",
+          "description": "Proactive support and maintenance to keep your business running smoothly.",
+          "icon": "shield-check",
+          "href": "#managed-it",
+          "linkLabel": "Explore Managed IT",
+          "linkIcon": "arrow-right"
+        }
+      ]
+    },
+    {
+      "id": "our-approach",
+      "name": "How We Work",
+      "eyebrow": "How We Work",
+      "heading": {
+        "text": "A Simple, Transparent Journey",
+        "parts": [
+          {
+            "text": "A Simple, Transparent Journey",
+            "highlight": false
+          }
+        ]
+      },
+      "description": "From first conversation to long-term success, we keep the process clear and collaborative.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Understand",
+          "description": "We listen to your goals and challenges and assess your current setup.",
+          "icon": "search",
+          "href": "#contact"
+        },
+        {
+          "number": "02",
+          "title": "Plan",
+          "description": "Design the right solution and team for your needs.",
+          "icon": "file-text",
+          "href": "#contact"
+        },
+        {
+          "number": "03",
+          "title": "Execute",
+          "description": "Deliver with agility, expertise and clear communication.",
+          "icon": "settings",
+          "href": "#services"
+        },
+        {
+          "number": "04",
+          "title": "Grow",
+          "description": "Optimize, support and scale together for long-term success.",
+          "icon": "chart-no-axes-combined",
+          "href": "#contact"
+        }
+      ]
+    },
+    {
+      "id": "why-inversera",
+      "name": "Why InversEra",
+      "eyebrow": "Why InversEra",
+      "heading": {
+        "text": "Not Just a Vendor. A True Technology Partner.",
+        "parts": [
+          {
+            "text": "Not Just a Vendor.",
+            "highlight": false
+          },
+          {
+            "text": "A True Technology Partner.",
+            "highlight": true
+          }
+        ]
+      },
+      "description": "We bring the right people, processes and technology to help you move forward with confidence.",
+      "actions": [
+        {
+          "label": "Let's Build What's Next",
+          "href": "#contact",
+          "icon": "arrow-right",
+          "variant": "outline"
+        }
+      ],
+      "cards": [
+        {
+          "title": "Proactive IT",
+          "description": "We prevent issues before they become disruptions.",
+          "icon": "users",
+          "href": "#services"
+        },
+        {
+          "title": "Expert Teams",
+          "description": "Right talent onboarded in expected turnaround time.",
+          "icon": "gem",
+          "href": "#services"
+        },
+        {
+          "title": "Customer First",
+          "description": "Faster decisions, higher agility and outcomes that fit your goals.",
+          "icon": "lightbulb",
+          "href": "#our-story"
+        },
+        {
+          "title": "Sustainable Growth",
+          "description": "Long-term partnership focused on your success.",
+          "icon": "chart-no-axes-column-increasing",
+          "href": "#contact"
+        }
+      ],
+      "visual": {
+        "type": "image",
+        "description": "Person looking toward a mountain sunrise, representing progress and business growth"
+      }
+    },
+    {
+      "id": "industries",
+      "name": "Industries We Serve",
+      "eyebrow": "Industries We Serve",
+      "heading": {
+        "text": "Domain Expertise That Drives Real Impact",
+        "parts": [
+          {
+            "text": "Domain Expertise That",
+            "highlight": false
+          },
+          {
+            "text": "Drives Real Impact",
+            "highlight": true
+          }
+        ]
+      },
+      "description": "Our proven experience across key industries helps organizations innovate, stay compliant and achieve sustainable growth.",
+      "cards": [
+        {
+          "id": "healthcare",
+          "title": "Healthcare",
+          "description": "Secure, compliant and scalable technology solutions.",
+          "icon": "hospital",
+          "href": "#healthcare"
+        },
+        {
+          "id": "financial-services",
+          "title": "Financial Services",
+          "description": "Innovative and compliance-ready solutions in a dynamic financial landscape.",
+          "icon": "landmark",
+          "href": "#financial-services"
+        },
+        {
+          "id": "manufacturing",
+          "title": "Manufacturing",
+          "description": "Keep your operations efficient and connected.",
+          "icon": "factory",
+          "href": "#manufacturing"
+        },
+        {
+          "id": "retail-ecommerce",
+          "title": "Retail & E-commerce",
+          "description": "Technology that supports your growth, online and offline.",
+          "icon": "store",
+          "href": "#retail-ecommerce"
+        }
+      ]
+    },
+    {
+      "id": "our-story",
+      "name": "Our Story",
+      "eyebrow": "Our Story",
+      "heading": {
+        "text": "Built on a Simple Belief",
+        "parts": [
+          {
+            "text": "Built on a",
+            "highlight": false
+          },
+          {
+            "text": "Simple Belief",
+            "highlight": true
+          }
+        ]
+      },
+      "paragraphs": [
+        "We started InversEra because we saw a common problem — high pricing, low value and slow response times due to multiple approval layers. Businesses deserve faster, more reliable and more human IT support.",
+        "Today, we focus on delivering a better experience by bringing the right talent, with the right skills, at the right time. Our goal is simple: to be the extended IT team you can rely on — so you can focus on growing your business."
+      ],
+      "actions": [
+        {
+          "label": "More About Our Story",
+          "href": "#our-story-details",
+          "icon": "arrow-right",
+          "variant": "secondary"
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "eyebrow": "Let's Talk",
+      "heading": {
+        "text": "Tell Us What Your Business Needs",
+        "parts": [
+          {
+            "text": "Tell Us What Your Business Needs",
+            "highlight": false
+          }
+        ]
+      },
+      "description": "Share your goals, challenges or upcoming project. We'll help you find the right people and technology.",
+      "actions": [
+        {
+          "label": "Start a Conversation",
+          "href": "mailto:hello@inversera.com",
+          "icon": "arrow-right",
+          "variant": "primary"
+        }
+      ],
+      "note": "Replace the example email address with the official InversEra contact address before launch."
+    }
+  ],
+  "footer": {
+    "brand": "InversEra",
+    "description": "Flexible IT services, cloud solutions and technology expertise to help your business move forward.",
+    "navigationGroups": [
+      {
+        "title": "Services",
+        "links": [
+          {
+            "label": "IT Staffing & Team Augmentation",
+            "href": "#staff-augmentation"
+          },
+          {
+            "label": "Cloud & Azure Solutions",
+            "href": "#cloud-azure"
+          },
+          {
+            "label": "Application Development",
+            "href": "#application-development"
+          },
+          {
+            "label": "Managed IT Services",
+            "href": "#managed-it"
+          }
+        ]
+      },
+      {
+        "title": "Company",
+        "links": [
+          {
+            "label": "Why Us",
+            "href": "#why-inversera"
+          },
+          {
+            "label": "Our Story",
+            "href": "#our-story"
+          },
+          {
+            "label": "Careers",
+            "href": "#careers"
+          },
+          {
+            "label": "Resources",
+            "href": "#resources"
+          }
+        ]
+      },
+      {
+        "title": "Industries",
+        "links": [
+          {
+            "label": "Healthcare",
+            "href": "#healthcare"
+          },
+          {
+            "label": "Financial Services",
+            "href": "#financial-services"
+          },
+          {
+            "label": "Manufacturing",
+            "href": "#manufacturing"
+          },
+          {
+            "label": "Retail & E-commerce",
+            "href": "#retail-ecommerce"
+          }
+        ]
+      }
+    ],
+    "legalLinks": [
+      {
+        "label": "Privacy Policy",
+        "href": "/privacy"
+      },
+      {
+        "label": "Terms of Use",
+        "href": "/terms"
+      }
+    ],
+    "copyright": "© {year} InversEra. All rights reserved."
+  },
+  "implementationNotes": {
+    "iconLibrary": "Lucide",
+    "iconNames": "Use the icon strings as Lucide icon component names; all are from the Lucide icon set.",
+    "contentNotes": [
+      "Text is transcribed from the supplied website mockup where legible; small visual labels and some descriptions are best-effort readings.",
+      "Navigation targets and service links are suggested anchor IDs for implementation and can be changed to match actual routes.",
+      "Careers, Resources, and some detailed pages are referenced in navigation but are not shown as standalone sections in the mockup."
+    ]
+  }
+}

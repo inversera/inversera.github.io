@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="415 290 420 420"
+     role="img"
+     aria-labelledby="title desc">
+  <title id="title">InversEra — IT Services and Technology Solutions</title>
+  <desc id="desc">Navy geometric bars and a teal upward arrow with a teal circular dot, representing technology, progress, and business growth.</desc>
+  <defs>
+    <style>
+      .navy { fill: #123B73; }
+      .teal { fill: #08AAA8; }
+    </style>
+  </defs>
+
+  <!-- Bottom horizontal bar -->
+  <path class="navy" d="M 560,628 L 561,686 L 828,686 L 828,628 Z"/>
+
+  <!-- Upper chart bar -->
+  <path class="navy" d="M 640,573 L 828,573 L 828,515 L 697,515 Z"/>
+
+  <!-- Left vertical bar -->
+  <path class="navy" d="M 438,463 L 438,687 L 526,687 L 527,463 Z"/>
+
+  <!-- True circle -->
+  <circle class="teal" cx="481.5" cy="389" r="47"/>
+
+  <!-- Upward growth arrow -->
+  <path class="teal" d="M 811,310 L 682,349 L 683,351 L 714,371 L 714,373 L 560,539 L 560,627 L 677,508 L 769,407 L 773,408 L 811,435 Z"/>
+</svg>

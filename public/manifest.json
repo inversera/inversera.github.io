@@ -1,0 +1,31 @@
+{
+  "id": "/",
+  "name": "InversEra | Flexible IT Services & Software Integration",
+  "short_name": "InversEra",
+  "description": "Flexible onshore and offshore IT services, cloud development, software integration, and expert IT support tailored to your business needs.",
+  "lang": "en",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/ie.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/ie.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/ie.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
